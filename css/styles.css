@@ -1,0 +1,141 @@
+ul {
+  list-style-type: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+}
+.section1 {
+  box-sizing: border-box;
+  width: 1440px;
+  height: 600px;
+  background-color: #2e2f42;
+
+  padding-left: 472px;
+  padding-right: 472px;
+}
+.section2 {
+  box-sizing: border-box;
+  width: 1128px;
+  height: 104px;
+  margin-top: 120px;
+  margin-bottom: 120px;
+  margin-left: 156px;
+  margin-right: 156px;
+}
+.section3 {
+  padding-top: 1800px;
+  box-sizing: border-box;
+  width: 1440px;
+  height: 732px;
+  background-color: #242444;
+  border: 1px;
+}
+.value-item {
+  box-sizing: border-box;
+  width: 264px;
+  height: 104px;
+  text-align: left;
+  background: #fff;
+  padding: 0px;
+  text-align: left;
+}
+
+.title-section1 {
+  padding-top: 188px;
+  width: 496px;
+  height: 260px;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+  text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.button1 {
+  margin-top: 48px;
+  border-radius: 4px;
+  padding: 16px 32px;
+  width: 169px;
+  height: 59px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background-color: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  margin-left: 164px;
+}
+.head-box {
+  box-sizing: border-box;
+  width: 1440px;
+  height: 72px;
+  padding-top: 24px;
+}
+
+.nav-logo {
+  box-sizing: border-box;
+  width: 115px;
+  height: 24px;
+  padding-top: 24px;
+  padding-left: 156px;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.value {
+  white-space: nowrap;
+}
+.nav-item {
+  text-decoration: none;
+  display: inline;
+  font-style: normal;
+  margin-left: 48px;
+}
+.menu-nav {
+  box-sizing: border-box;
+  width: 261px;
+  height: 24px;
+  white-space: nowrap;
+  display: inline;
+  margin-bottom: 0;
+}
+.addr {
+  box-sizing: border-box;
+  width: 200px;
+  height: 24px;
+  white-space: nowrap;
+  display: inline-block;
+  margin-top: 0;
+}
+.address-item {
+  font-style: normal;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  padding-left: 940px;
+  margin-top: 0;
+}
+.phone-item {
+  font-style: normal;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  margin-left: 40px;
+  padding-top: 0;
+}
+.nav-text {
+  text-decoration: none;
+}
+.addr-item {
+  white-space: nowrap;
+  display: inline;
+  margin-bottom: 0;
+}
