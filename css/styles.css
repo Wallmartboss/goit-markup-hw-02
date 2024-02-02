@@ -44,7 +44,7 @@ body {
   height: 260px;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -56,6 +56,7 @@ body {
   padding: 16px 32px;
   width: 169px;
   height: 59px;
+  line-height: 1.5;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #4d5ae5;
   font-weight: 500;
@@ -177,6 +178,7 @@ body {
   height: 380px;
   margin-left: 12px;
   margin-right: 12px;
+  background-color: #fff;
 }
 .value-item {
   width: 264px;
