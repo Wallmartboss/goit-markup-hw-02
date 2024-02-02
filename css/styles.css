@@ -279,7 +279,8 @@ body {
   width: 264px;
   margin-left: 156px;
 }
-.address-item:hover {
+.address-item:hover,
+.address-item:focus {
   color: #404bbf;
 }
 .f-logo {
