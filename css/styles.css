@@ -9,7 +9,7 @@ body {
   font-style: normal;
   font-weight: 400;
 }
-.section1 {
+.section-a {
   box-sizing: border-box;
   width: 1440px;
   height: 600px;
@@ -18,13 +18,13 @@ body {
   padding-right: 472px;
   margin-top: 0;
 }
-.section2 {
+.section-b {
   width: 1440px;
   margin-top: 120px;
   margin-bottom: 120px;
   padding-left: 100px;
 }
-.section3 {
+.section-c {
   box-sizing: border-box;
   width: 1440px;
   height: 732px;
@@ -37,7 +37,7 @@ body {
   width: 264px;
 }
 
-.title-section1 {
+.title-section-a {
   padding-top: 188px;
   margin-top: 0;
   width: 496px;
@@ -50,7 +50,7 @@ body {
   color: #fff;
   text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
-.button1 {
+.button- {
   margin-top: 48px;
   border-radius: 4px;
   padding: 16px 32px;
@@ -67,8 +67,8 @@ body {
   margin-left: 164px;
   white-space: nowrap;
 }
-.button1:hover,
-.button1:focus {
+.button-:hover,
+.button-:focus {
   background-color: #404bbf;
 }
 
@@ -118,9 +118,12 @@ body {
   display: inline;
   padding-left: 940px;
 }
+
+.addra {
+  font-style: normal;
+}
 .address-item {
   text-decoration: none;
-  font-style: normal;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -128,14 +131,14 @@ body {
 }
 .phone-item {
   text-decoration: none;
-  font-style: normal;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   margin-left: 40px;
 }
-.nav-text2 {
+
+.nav-text {
   text-decoration: none;
   font-weight: 500;
   font-size: 16px;
@@ -143,28 +146,18 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.nav-text1 {
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.nav-text1:hover {
+.nav-text:hover {
   color: #404bbf;
 }
 
-.nav-text1:focus {
+.nav-text:focus {
   color: #404bbf;
   border-bottom: 4px solid;
   border-bottom-left-radius: 4px;
   border-bottom-right-radius: 4px;
   margin-top: 4px;
 }
-.nav-text2:hover {
-  color: #404bbf;
-}
+
 .addr-item {
   white-space: nowrap;
   display: inline;
@@ -194,7 +187,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.title-section3 {
+.title-section-c {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -205,7 +198,7 @@ body {
   padding-top: 120px;
   padding-bottom: 72px;
 }
-.title-h3 {
+.title-h {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -231,7 +224,7 @@ body {
   color: #434455;
   margin-top: 0;
 }
-.section4 {
+.section-d {
   width: 1440px;
   margin-top: 132px;
   padding-left: 100px;
