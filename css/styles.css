@@ -197,7 +197,7 @@ body {
 .title-section3 {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
@@ -230,17 +230,6 @@ body {
   text-align: center;
   color: #434455;
   margin-top: 0;
-}
-.title-section4 {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11111;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  text-align: center;
-  color: #2e2f42;
-  text-align: center;
-  margin-bottom: 72px;
 }
 .section4 {
   width: 1440px;
