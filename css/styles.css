@@ -29,7 +29,6 @@ body {
   width: 1440px;
   height: 732px;
   background-color: #f4f4fd;
-
   padding-left: 100px;
   padding-right: 100px;
 }
@@ -50,7 +49,7 @@ body {
   color: #fff;
   text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
-.button- {
+.button-a {
   margin-top: 48px;
   border-radius: 4px;
   padding: 16px 32px;
@@ -68,8 +67,8 @@ body {
   margin-left: 164px;
   white-space: nowrap;
 }
-.button-:hover,
-.button-:focus {
+.button-a:hover,
+.button-a:focus {
   background-color: #404bbf;
 }
 
@@ -129,16 +128,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-.phone-item {
-  text-decoration: none;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
   margin-left: 40px;
 }
-
 .nav-text {
   text-decoration: none;
   font-weight: 500;
@@ -289,9 +280,6 @@ body {
   margin-left: 156px;
 }
 .address-item:hover {
-  color: #404bbf;
-}
-.phone-item:hover {
   color: #404bbf;
 }
 .f-logo {
