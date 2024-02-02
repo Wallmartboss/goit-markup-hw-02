@@ -39,7 +39,6 @@ body {
   padding-top: 188px;
   width: 496px;
   height: 260px;
-
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07143;
@@ -56,7 +55,6 @@ body {
   height: 59px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #4d5ae5;
-
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 0.04em;
@@ -74,28 +72,40 @@ body {
 }
 
 .nav-logo {
-  box-sizing: border-box;
-  width: 115px;
-  height: 24px;
+  
   padding-top: 24px;
   padding-left: 156px;
   white-space: nowrap;
   text-decoration: none;
-  text-transform: uppercase;
-  font-family: "Raleway", sans-serif;
+   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.16667;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
-}
+  }
+  
+  .nav-logo::before {
+    content: "WEB";
+    color: #4d54d6;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    white-space: nowrap;
+    margin-right: -5px;
+  }
+
 
 .nav-item {
   text-decoration: none;
   display: inline;
   font-style: normal;
   margin-left: 48px;
+  margin-bottom: 0;
 }
 .menu-nav {
   box-sizing: border-box;
@@ -131,7 +141,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
   margin-left: 40px;
-  padding-top: 0;
+  margin-top: 0;
 }
 .nav-text {
   text-decoration: none;
