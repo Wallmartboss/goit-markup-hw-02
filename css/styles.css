@@ -19,6 +19,7 @@ body {
   background-color: #f4f4fd;
 }
 .title-section-a {
+  text-align: center;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -115,6 +116,7 @@ body {
   color: #434455;
 }
 .title-section-c {
+  text-align: center;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
