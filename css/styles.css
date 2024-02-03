@@ -19,13 +19,13 @@ body {
   background-color: #f4f4fd;
 }
 .title-section-a {
-  text-align: center;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: #fff;
   text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  text-align: center;
 }
 .button-a {
   line-height: 1.5;
@@ -116,13 +116,13 @@ body {
   color: #434455;
 }
 .title-section-c {
-  text-align: center;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  text-align: center;
 }
 .title-h {
   font-weight: 500;
