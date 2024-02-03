@@ -11,7 +11,7 @@ body {
 }
 .section-a {
   background-color: #2e2f42;
-  margin-top: 0;
+ 
 }
 .section-b {
   margin: 120px;
@@ -36,7 +36,7 @@ body {
   color: #fff;
   cursor: pointer;
   border: none;
-  margin-left: 164px;
+  
   white-space: nowrap;
 }
 .button-a:hover,
@@ -45,7 +45,7 @@ body {
 }
 
 .nav-logo {
-  white-space: nowrap;
+  
   text-decoration: none;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -64,18 +64,15 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
-  margin-left: -4px;
 }
 .nav-item {
   text-decoration: none;
-  margin-left: 48px;
+  
 }
 .menu-nav {
-  white-space: nowrap;
   margin: 0;
 }
 .addr {
-  white-space: nowrap;
 }
 
 .addra {
@@ -87,7 +84,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  margin-left: 40px;
 }
 .nav-text {
   text-decoration: none;
@@ -103,23 +99,19 @@ body {
 
 .nav-text:focus {
   color: #404bbf;
-  margin-top: 4px;
 }
 
 .addr-item {
-  white-space: nowrap;
 }
 .value {
-  margin-left: 12px;
-  margin-right: 12px;
+  margin: 12px;
 }
 .value-team {
-  margin-left: 12px;
-  margin-right: 12px;
+  margin: 12px;
   background-color: #fff;
 }
 .value-item {
-  text-align: left;
+  
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -132,7 +124,6 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  text-align: center;
   color: #2e2f42;
 }
 .title-h {
@@ -147,34 +138,27 @@ body {
   font-size: 20px;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  text-align: center;
   color: #2e2f42;
-  margin-top: 32px;
-  margin-bottom: 8px;
+  
 }
 .position {
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.02em;
   line-height: 1.5;
-  text-align: center;
   color: #434455;
-  margin-top: 0;
+ 
 }
 .section-d {
-  margin-top: 132px;
 }
 .value-portfolio {
-  margin-left: 12px;
-  margin-right: 12px;
+  margin: 12px;
   background-color: #fff;
-  margin-bottom: 48px;
 }
 .sphere {
   font-size: 16px;
   letter-spacing: 0.02em;
   line-height: 1.5;
-  text-align: left;
   color: #434455;
   margin-top: 0;
 }
@@ -183,19 +167,12 @@ body {
   font-size: 20px;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  text-align: left;
-  color: #2e2f42;
-  margin-top: 32px;
-  margin-bottom: 8px;
+    color: #2e2f42;
 }
 .foot {
   background: #2e2f42;
-  padding-top: 100px;
 }
 .foot-logo {
-  padding-top: 24px;
-  padding-left: 156px;
-  white-space: nowrap;
   text-decoration: none;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -211,7 +188,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  margin-left: 156px;
 }
 .address-item:hover,
 .address-item:focus {
@@ -226,5 +202,4 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
-  margin-left: -4px;
-}
+  
